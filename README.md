@@ -35,7 +35,7 @@ test python openai
 from openai import OpenAI
 
 client = OpenAI(
-    base_url = "http://sionic.chat:8001/v1",
+    base_url = "http://sionic.tech:28000/v1",
     api_key = "934c4bbc-c384-4bea-af82-1450d7f8128d"
 )
 
